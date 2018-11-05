@@ -121,7 +121,7 @@ in your release builds.
 
 ```groovy
 debugImplementation 'com.pixiteapps.billingx:billingx:0.8.0'
-releaseImplementation 'com.android.billingclient:billing:1.0'
+releaseImplementation 'com.android.billingclient:billing:1.1'
 ```
 
 ## License
